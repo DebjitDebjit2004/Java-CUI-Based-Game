@@ -55,7 +55,8 @@ public class stone_paper_scissor_game {
                 System.out.println("==================== Match Draw !!! ====================");
             }
         } else {
-            System.out.println("Invalid Choice !!!!!!!!!!!!!!");
+            System.out.println(">>> Invalid Choice !!!!!!!!!!!!!!");
+            System.out.println("==================== Thank You :) ====================");
         }
     }
 }
